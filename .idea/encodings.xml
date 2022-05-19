@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Collection_Framework/Array_List.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/Collection_Framework/Linked_List.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/Collection_Framework/Map_interface.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/Exception_Handling/All_Exception.java" charset="UTF-16BE" />
+    <file url="file://$PROJECT_DIR$/src/Pattern/Run.java" charset="UTF-16" />
+  </component>
+</project>
